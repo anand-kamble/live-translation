@@ -2,8 +2,12 @@
 
 ### Currently under development.
 
-To start the project use
+<br/>
+
+## To start the project use
 
 ```
 ./liveTranslation.sh
 ```
+
+> **_NOTE:_** Make sure you are using bash terminal.
