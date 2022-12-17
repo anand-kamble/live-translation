@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    translator()
+    translator("lol")
     return "<p>Hello, World!</p>"
 
 
